@@ -38,3 +38,13 @@ A smart, single-file web application that helps students study more effectively 
 ## Developer
 
 **Muhammad Danish**
+GitHub: [@M-danish05](https://github.com/M-danish05)
+
+## Developed By
+
+**Dynaix Studio**  
+Website: https://www.daynixstudio.com/
+
+---
+
+© 2026 Dynaix Studio. All rights reserved.
